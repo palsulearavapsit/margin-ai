@@ -6,7 +6,6 @@ __pycache__/
 .pytest_cache/
 .coverage
 backend/data/
-backend/.env
 *.log
 .DS_Store
 .superpowers/
